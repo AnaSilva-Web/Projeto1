@@ -7,3 +7,9 @@ MetodoA_AAAA
 MetodoA_AAAA
 MetodoA_AAAA
 MetodoA_AAAA
+
+MetodoB_BBBB
+MetodoB_BBBB
+MetodoB_BBBB
+MetodoB_BBBB
+
